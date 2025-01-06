@@ -7,7 +7,7 @@
 <a href="https://vk.com/Brend8c">
     <img align="left" alt="Artem Guskov | Twitter" width="25px" src="https://raw.githubusercontent.com/Brend8c/Brend8c/master/img/vk.svg" />
 </a>
-<a href="mailto:Brend8c@gmail.com">
+<a href="mailto:Brendan8c@gmail.com">
     <img align="left" alt="Artem Guskov | Email" width="25px" src="https://raw.githubusercontent.com/Brend8c/Brend8c/master/img/email.svg" />
 </a>
 </p><br>
